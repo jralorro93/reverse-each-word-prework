@@ -6,3 +6,7 @@ def reverse_each_word(phrase)
   end 
   new_phrase.join(" ")
 end 
+
+def reverse_each_word(string)
+  
+end 
